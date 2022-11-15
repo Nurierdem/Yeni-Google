@@ -1,6 +1,6 @@
 **#Yeni Google Web Sitesi**
 
-![YeniGoogle](images/Son.png)
+![YeniGoogle](![image](https://user-images.githubusercontent.com/112330171/201932272-3ec177fc-81d5-4620-8ba2-79a9fc77c637.png))
 
 **Bu çalışmada yeni google web tarayıcısının bir örneği yapıldı.**
 
